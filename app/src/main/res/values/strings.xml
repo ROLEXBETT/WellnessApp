@@ -1,0 +1,188 @@
+<resources>
+    <!-- App Information -->
+    <string name="app_name">WellnessApp</string>
+
+    <!-- 1. Healthy Recipes -->
+    <string name="healthy_recipes">Healthy Recipes</string>
+    <string name="fruit_salad">
+    Healthy Recipes\n\n
+    🍎 1. Fruit Salad\nA mix of fresh fruits like bananas, apples, and oranges.\n\n
+    🍗 2. Grilled Chicken\nLow-fat grilled chicken served with vegetables.\n\n
+    🥦 3. Vegetable Stir Fry\nCarrots, broccoli, and peppers cooked lightly.\n\n
+    🥣 4. Oatmeal Breakfast\nOats with milk and fruits.\n\n
+    🥑 5. Avocado Toast\nWhole grain bread topped with avocado.\n\n
+    🥚 6. Boiled Eggs\nRich in protein and easy to prepare.\n\n
+    🍓 7. Smoothie Bowl\nBlended fruits with yogurt and nuts.\n\n
+    🍛 8. Brown Rice and Beans\nHealthy and full of fiber.\n\n
+    🐟 9. Baked Fish\nFish baked with lemon and spices.\n\n
+    🍯 10. Greek Yogurt with Honey\nGood for digestion and very nutritious.
+    </string>
+
+    <!-- 2. Nutrition Advice -->
+    <string name="nutritionadvicetitle">Nutrition Advice</string>
+    <string name="nutrition_advice">
+    🥗 Build Balanced Meals\n
+    Aim to include these in most meals:\n
+    • Protein: eggs, chicken, fish, beans, lentils\n
+    • Carbohydrates: whole grains like rice, oats, sweet potatoes\n
+    • Healthy fats: avocado, nuts, seeds\n
+    • Fiber: vegetables and fruits\n\n
+
+    A simple plate guide:\n
+    ✅ ½ vegetables\n
+    ✅ ¼ protein\n
+    ✅ ¼ carbs\n\n
+
+    💧 Stay Hydrated\n
+    🥑 Simple Healthy Snack Ideas:\n
+    • Fruit + peanuts\n
+    • Yogurt + seeds\n
+    • Boiled eggs
+    </string>
+
+    <!-- 3. Meditation -->
+    <string name="meditation_title">Daily Mindfulness</string>
+    <string name="meditation_content">
+    🧘 Find Your Center\n
+    Meditation isn\'t about clearing your thoughts—it\'s about observing them without judgment.\n\n
+
+    Benefits of Daily Stillness:\n
+    ✅ Reduced Stress: Lower your cortisol levels.\n
+    ✅ Sharper Focus: Train your brain to stay present.\n
+    ✅ Emotional Balance: Respond rather than react.\n\n
+
+    🌬️ Simple 5-Minute Practice:\n
+    1. Sit Comfortably: Keep your back straight.\n
+    2. Follow the Breath: Notice the air entering and leaving.\n
+    3. Gently Return: Bring your mind back to your breath.\n\n
+
+    ✨ Mindful Moments:\n
+    • Box Breathing: 4-4-4-4 technique.\n
+    • Digital Detox: No screens for first 10 mins of the day.\n
+    • Body Scan: Consciously release tension.\n\n
+
+    \"Peace is a daily, a weekly, and a monthly process.\"
+    </string>
+
+    <!-- 4. Hydration Alert -->
+    <string name="hydration_title">Hydration Alert</string>
+    <string name="hydration_content">
+    💧 Stay Refreshed\n
+    Staying hydrated is the simplest way to boost energy and focus.\n\n
+
+    Why It Matters:\n
+    ✅ Brain Power: Prevents brain fog and headaches.\n
+    ✅ Physical Performance: Keeps muscles lubricated.\n
+    ✅ Natural Glow: Flushes out toxins.\n\n
+
+    🥤 Hydration Goals:\n
+    • Consistency: Sip small amounts throughout the day.\n
+    • The Glass Rule: Drink water immediately after waking up.\n
+    • Flavor Boost: Add lemon, cucumber, or mint.\n\n
+
+    🚀 Quick Hydration Tips:\n
+    • Carry a reusable bottle everywhere.\n
+    • Drink a glass of water before every meal.\n
+    • Set a timer to remind you to sip every hour.\n\n
+
+    \"Pure water is the world’s first and foremost medicine.\"
+    </string>
+
+    <!-- 5. Start Exercise -->
+    <string name="exercise_motivation_title">Daily Movement</string>
+    <string name="exercise_motivation_content">
+    💪 Power Your Performance\n
+    Moving your body daily sharpens skills and builds discipline.\n\n
+
+    Why Move Today?\n
+    ✅ Mental Clarity: Improves blood flow to the brain.\n
+    ✅ Energy Boost: Spending energy gives you more energy.\n
+    ✅ Resilience: Builds the \"grit\" needed for long-term projects.\n\n
+
+    🏋️ Quick Training Ideas:\n
+    • 7-Minute Circuit: Jumping jacks, push-ups, and squats.\n
+    • Active Recovery: Brisk walk or light stretching.\n
+    • Strength Focus: Compound movements for best ROI.\n\n
+
+    🔥 Small Wins:\n
+    • Take the stairs instead of the elevator.\n
+    • Set a timer for a 2-minute plank during your break.\n
+    • Consistency > Intensity. 5 mins > 0 mins.\n\n
+
+    \"The only bad workout is the one that didn\'t happen.\"
+    </string>
+
+    <!-- 6. Daily Motivation -->
+    <string name="motivation_title">Daily Motivation</string>
+    <string name="daily_motivation_content">
+    🚀 Fuel Your Ambition\n
+    Success is built on the habits you repeat every day.\n\n
+
+    Key Mindsets:\n
+    ✅ Discipline: Doing what needs to be done.\n
+    ✅ Persistence: Errors are just lessons.\n
+    ✅ Growth: Small, 1% daily improvements.\n\n
+
+    💡 Pro-Tips:\n
+    • Deep Work: 40 minutes of pure focus.\n
+    • Move: A 10-minute walk solves problems.\n
+    • Reflect: End your day by noting one win.\n\n
+
+    \"The best way to predict the future is to create it.\"
+    </string>
+
+    <!-- 7. Weekly Goals -->
+    <string name="weekly_goals_title">Weekly Goals</string>
+    <string name="weekly_goals_content">
+    🗓️ Plan Your Sprint\n
+    Set clear intentions on Monday to ensure you are productive.\n\n
+
+    Why Set Weekly Goals?\n
+    ✅ Focus: Filter out noise and prioritize.\n
+    ✅ Clarity: Actionable \"Week\" tasks.\n
+    ✅ Accountability: Track where your time went.\n\n
+
+    🎯 Your Weekly Strategy:\n
+    • The Rule of Three: Pick 3 major objectives.\n
+    • Time Blocking: Assign windows for deep work.\n
+    • Mid-Week Review: Adjust your pace on Wednesday.\n\n
+
+    🚀 Success Metrics:\n
+    • Academic/Work: Complete modules or debug features.\n
+    • Health: Hit hydration targets 7 days in a row.\n
+    • Growth: Learn one new concept.\n\n
+
+    \"Productivity is never an accident.\"
+    </string>
+
+    <!-- 8. Check Progress -->
+    <string name="progress_title">Track Your Progress</string>
+    <string name="progress_content">
+    📈 Small Wins Every Day\n
+    Every step counts toward your long-term vision.\n\n
+
+    Why Track Your Growth?\n
+    ✅ Momentum: Fuels the drive to go further.\n
+    ✅ Data over Feelings: Records show you are moving.\n
+    ✅ Refinement: Optimize what you measure.\n\n
+
+    🎯 How to Measure Success:\n
+    • The 1% Rule: Be 1% better than yesterday.\n
+    • Daily Log: Note down one thing you completed.\n
+    • Milestones: Break big visions into sprints.\n\n
+
+    🚀 Keep Pushing:\n
+    • Don\'t compare your Chapter 1 to someone\'s Chapter 20.\n
+    • Consistency beats intensity.\n
+    • Pivot and iterate—don\'t quit.\n\n
+
+    \"It does not matter how slowly you go as long as you do not stop.\"
+    </string>
+
+    <string name="meditation_image_desc">Meditation Image</string>
+    <string name="progress_image_desc">Progress Image</string>
+    <string name="hydration_image_desc">Hydration Image</string>
+    <string name="exercise_image_desc">Exercise Motivation Image</string>
+
+    <string name="visit_website">Visit Wellness Website</string>
+</resources>
