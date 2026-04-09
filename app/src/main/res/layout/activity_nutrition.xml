@@ -37,6 +37,14 @@
             android:textSize="18sp"
             android:textColor="#FFFFFF"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rewardAd"
+            android:text="Get Reward"
+            android:textSize="32sp"
+            android:backgroundTint="#0d0858"/>
+
     </LinearLayout>
 
 </ScrollView>
